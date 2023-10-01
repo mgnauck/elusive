@@ -14,4 +14,5 @@ Final release can be found in the /release directory. You will need a WebGPU-cap
 You will need the following tools to package and compress the input files (javascript and shader).
 
 https://github.com/mgnauck/wgslminify
+
 https://github.com/mgnauck/js-payload-compress
