@@ -1,0 +1,53 @@
+bypass
+elusive
+4k
+
+--
+
+supah - audio shader
+warp - visual shader, intro code
+
+--
+
+Small little something for deadline 2023. Back at a demoparty after 17 years, we wanted to bring you some more cubes. <3
+
+You will need a WebGPU-capable browser, like Chromium/Chrome (version 113 or higher), Firefox Nightly or something similar.
+Please use the '--allow-file-access-from-files' option for Chrome or start a local webserver (python3 -m http.server) in the intro directory. 
+
+Special thanks to Jason Rampe and the CA community for sharing their work.
+
+FWIW, we did some small tools for this 4k:
+
+https://github.com/mgnauck/wgslminify
+https://github.com/mgnauck/js-payload-compress
+
+--
+
+Greeting to our old and new friends in the demoscene:
+
+0b5vr
+ASD
+Calodox
+Cocoon
+Conspiracy
+Deadline orga team
+Excess
+Fairlight
+Farbrausch <3
+Haujobb
+Holon
+Inque
+LJ
+Logicoma
+Loonies
+Madwizards
+mikucom
+mfx
+Nuance
+Prismbeings
+Replay
+Rootkids
+Still
+Spcaeigs
+Suburban
+
